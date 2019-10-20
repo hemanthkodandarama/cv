@@ -20,7 +20,7 @@ Cambria;color:#5266A5" lang="EN-US"></span>
 
 #### CV 
 
-<a href="https://drive.google.com/file/d/1CETuiZgV20m3qCYchWjdvbAICxrfNP2g/view?usp=sharing">View</a>
+<a target="_blank" href="https://drive.google.com/file/d/1CETuiZgV20m3qCYchWjdvbAICxrfNP2g/view?usp=sharing">View</a>
 
 #### Professional Summary 
 -	Extremely self-motivated Software Architect with the ability to be proactive with project execution.
